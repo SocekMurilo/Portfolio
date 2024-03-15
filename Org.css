@@ -1,0 +1,859 @@
+/* BODY */
+#Body {
+    font-family: 'Dangrek', cursive;
+
+}
+
+/* HEADER */
+
+
+header .navbar {
+    box-shadow: 0px 2px 2px rgb(220, 225, 222);
+}
+
+header .navbar #Titulo {
+    font-size: 2vw;
+}
+
+header .navbar #Titulo #MKS {
+    color: rgb(255, 244, 44);
+    font-size: 3vw;
+    background-color: rgb(19, 72, 73);
+    border-radius: 5vw;
+    padding-inline: 5vw;
+}
+
+header .sticky-top {
+
+    position: fixed;
+    border-radius: 100%;
+}
+
+header .sticky-top img {
+    height: 50%;
+    width: 50%;
+}
+
+/* ARTICLE */
+article #Home {
+    background-color: rgb(19, 72, 73);
+    height: auto;
+}
+
+article #container1 #row1 #P1 #Nome {
+    color: rgb(255, 244, 44);
+    font-size: 4vw;
+    margin-top: 10%;
+    text-align: center;
+}
+
+article #L1 {
+    text-decoration: none;
+}
+
+article #container1 #row1 #P1 .Bloco {
+    margin-top: 6%;
+    margin-left: 20%;
+    background-color: white;
+    border-radius: 10px;
+    height: 60%;
+    width: 60%;
+}
+
+article #container1 #row1 #P1 .Bloco .img-aut {
+    text-align: center;
+}
+
+article #container1 #row1 #P1 .Bloco .img-aut img {
+    margin-top: 20px;
+    background-color: white;
+    height: 70%;
+    width: 70%;
+}
+
+article #container1 #row1 #P1 .Bloco .Sub-Titulos {
+    margin-top: 10%;
+    margin-bottom: 5%;
+    font-size: 2.5vw;
+    text-align: center;
+    color: black;
+}
+
+article #container1 #row1 #P1 .Bloco .Ingles {
+    text-align: center;
+}
+
+article #container1 #row1 #P1 .Bloco .Ingles img {
+    margin-top: 10px;
+    padding-bottom: 10%;
+    height: 20%;
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+article #L2 {
+    text-decoration: none;
+}
+
+article #container1 #row1 #P2 .Bloco2 {
+    background-color: white;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    height: 45%;
+    width: 100%;
+}
+
+article #container1 #row1 #P2 .Bloco2 .botao {
+    margin-top: auto;
+    text-align: end;
+}
+
+article #container1 #row1 #P2 .Bloco2 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #container1 #row1 #P2 .Bloco2 .img-aut {
+    text-align: center;
+}
+
+article #container1 #row1 #P2 .Bloco2 .img-aut img {
+    margin-top: 5px;
+    background-color: white;
+    height: 30%;
+    width: 30%;
+}
+
+article #container1 #row1 #P2 .Bloco2 .Sub-Titulos {
+    margin-top: 20px;
+    font-size: 2.5vw;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+
+article #L3 {
+    text-decoration: none;
+}
+
+article #container1 #row1 #P2 .Bloco3 {
+    background-color: white;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    height: 45%;
+    width: 100%;
+}
+
+article #container1 #row1 #P2 .Bloco3 .botao {
+    margin-top: auto;
+    text-align: end;
+}
+
+article #container1 #row1 #P2 .Bloco3 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #container1 #row1 #P2 .Bloco3 .img-aut {
+    text-align: center;
+}
+
+article #container1 #row1 #P2 .Bloco3 .img-aut img {
+    margin-top: 5px;
+    background-color: white;
+    height: 30%;
+    width: 30%;
+}
+
+article #container1 #row1 #P2 .Bloco3 .Sub-Titulos {
+    margin-top: 20px;
+    font-size: 2.5vw;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+
+article #L4 {
+    text-decoration: none;
+}
+
+article #container1 #row1 #P3 .Bloco4 {
+    background-color: white;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    height: 45%;
+    width: 100%;
+}
+
+article #container1 #row1 #P3 .Bloco4 .botao {
+    margin-top: auto;
+    text-align: end;
+}
+
+article #container1 #row1 #P3 .Bloco4 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #container1 #row1 #P3 .Bloco4 .img-aut {
+    text-align: center;
+}
+
+article #container1 #row1 #P3 .Bloco4 .img-aut img {
+    margin-top: 5px;
+    background-color: white;
+    height: 30%;
+    width: 30%;
+}
+
+article #container1 #row1 #P3 .Bloco4 .Sub-Titulos {
+    margin-top: 20px;
+    font-size: 2.5vw;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+
+article #L5 {
+    text-decoration: none;
+}
+
+article #container1 #row1 #P3 .Bloco5 {
+    background-color: white;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    height: 45%;
+    width: 100%;
+}
+
+article #container1 #row1 #P3 .Bloco5 .botao {
+    margin-top: auto;
+    text-align: end;
+}
+
+article #container1 #row1 #P3 .Bloco5 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #container1 #row1 #P3 .Bloco5 .img-aut {
+    text-align: center;
+}
+
+article #container1 #row1 #P3 .Bloco5 .img-aut img {
+    margin-top: 5px;
+    background-color: white;
+    height: 30%;
+    width: 30%;
+}
+
+article #container1 #row1 #P3 .Bloco5 .Sub-Titulos {
+    margin-top: 20px;
+    font-size: 2.5vw;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+
+
+
+/* Parte 2 */
+article #Sobre_Mim {
+    background-color: rgb(33, 104, 105);
+    height: auto;
+    padding-bottom: 5%;
+}
+
+article #Sobre_Mim #container2 #row2 #P4 {
+    color: rgb(255, 244, 44);
+    text-align: center;
+    margin-top: 5%;
+}
+
+article #Sobre_Mim #container2 #row2 #P4 h1 {
+    font-size: 5vw;
+}
+
+article #Sobre_Mim #container2 #row2 #P5 h1 {
+    color: rgb(255, 244, 44);
+    margin-top: 10%;
+    font-size: 2vw;
+}
+
+article #Sobre_Mim #container2 #row2 #P6 {
+    text-align: center;
+}
+
+article #Sobre_Mim #container2 #row2 #P6 img {
+    margin-top: 10%;
+    height: 80%;
+    width: 70%;
+    min-width: 70%;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+
+}
+
+
+
+/* Parte 3 */
+
+article #Portfolio {
+    background-color: rgb(19, 72, 73);
+    height: auto;
+    padding-bottom: 5%;
+}
+
+article #Portfolio #P7 h1 {
+    font-size: 5vw;
+    margin-bottom: 5%;
+    color: rgb(255, 244, 44);
+    text-align: center;
+    margin-top: 5%;
+}
+
+article #Portfolio #container3 #row3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+article #Portfolio #container3 #row3 .Bloco1 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+article #Portfolio #container3 #row3 #P8 {
+    background-color: white;
+    border-radius: 10px;
+    margin-inline: 5px;
+    width: 27%;
+    height: auto;
+    align-items: center;
+
+}
+
+article #Portfolio #container3 #row3 #P8 .Sub-Titulos {
+    color: black;
+    text-align: center;
+    font-size: 4vw;
+}
+
+article #L8 {
+    text-decoration: none;
+}
+
+article #Portfolio #container3 #row3 #P8 .botao {
+    margin: auto;
+    text-align: center;
+}
+
+article #Portfolio #container3 #row3 #P8 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #Portfolio #container3 #row3 #P8 .Bloco1 .img-aut {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+article #Portfolio #container3 #row3 #P8 .Bloco1 .img-aut img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+article #Portfolio #container3 #row3 #P9 {
+    background-color: white;
+    border-radius: 10px;
+    margin-inline: 5px;
+    width: 38%;
+    height: 100%;
+    align-items: center;
+
+}
+
+article #Portfolio #container3 #row3 #P9 .Sub-Titulos {
+    color: black;
+    text-align: center;
+    font-size: 4vw;
+}
+
+article #L9 {
+    text-decoration: none;
+}
+
+
+article #Portfolio #container3 #row3 #P9 .botao {
+    margin: auto;
+    text-align: center;
+}
+
+article #Portfolio #container3 #row3 #P9 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #Portfolio #container3 #row3 #P9 .Bloco1 .img-aut {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+article #Portfolio #container3 #row3 #P9 .Bloco1 .img-aut img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+article #Portfolio #container3 #row3 #P10 {
+    background-color: white;
+    border-radius: 10px;
+    margin-inline: 5px;
+    width: 27%;
+    height: 100%;
+    align-items: center;
+
+}
+
+article #Portfolio #container3 #row3 #P10 .Sub-Titulos {
+    color: black;
+    text-align: center;
+    font-size: 4vw;
+}
+
+article #L10 {
+    text-decoration: none;
+}
+
+article #Portfolio #container3 #row3 #P10 .botao {
+    margin: auto;
+    text-align: center;
+}
+
+article #Portfolio #container3 #row3 #P10 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #Portfolio #container3 #row3 #P10 .Bloco1 .img-aut {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+article #Portfolio #container3 #row3 #P10 .Bloco1 .img-aut img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+/* Parte 4 */
+article #Academico {
+    background-color: rgb(33, 104, 105);
+    height: auto;
+    padding-bottom: 5%;
+}
+
+article #Academico #container4 #row4 #P11 h1 {
+    font-size: 5vw;
+    color: rgb(255, 244, 44);
+    text-align: center;
+    margin-top: 5%;
+}
+
+article #Academico #container4 #row4 #P12 h1 {
+    font-size: 5vw;
+    color: rgb(255, 244, 44);
+    text-align: center;
+    margin-top: 3%;
+    margin-inline-start: 1%;
+}
+
+article #Academico #container5 #row5 #P13 {
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 10px;
+    height: 170%;
+}
+
+article #Academico #container5 #row5 #P13 h1 {
+    background-color: rgb(33, 104, 105);
+    border-radius: 10px;
+    font-size: 3vw;
+    color: rgb(255, 244, 44);
+    text-align: center;
+    margin-top: 8%;
+}
+
+article #Academico #container5 #row5 #P13 #L13 {
+    text-decoration: none;
+}
+
+article #Academico #container5 #row5 #P13 h2 {
+    font-size: 2vw;
+    color: black;
+    text-align: start;
+    margin-top: 10%;
+}
+
+article #Academico #container5 #row5 #P13 #Bosch {
+    margin-bottom: 10%;
+}
+
+article #Academico #container5 #row5 #P14 .divisoria {
+    background-color: white;
+    height: 80%;
+    width: 10%;
+    margin-inline: 10%;
+    color: white;
+    border-radius: 10px;
+}
+
+
+article #Academico #container5 #row5 #P15 #linguagens {
+    background-color: white;
+    display: flex;
+    margin-inline: 5%;
+}
+
+article #Academico #container5 #row5 #linguagens #P15 h3 {
+    background-color: white;
+    width: 1%;
+    height: 100%;
+    text-align: center;
+    font-size: 3vw;
+}
+
+article #Academico #P15 h1 {
+    margin-top: 5%;
+    color: rgb(255, 244, 44);
+    font-size: 3vw;
+    border-radius: 10px;
+}
+
+article #Academico #container6 #row6 .back_End {
+    text-align: center;
+}
+
+article #Academico #container6 #row6 .tamanho {
+    height: 100%;
+    width: 100%;
+    margin-bottom: 50%;
+    margin-top: 20%;
+}
+
+article #Academico #P16 h1 {
+    margin-top: 7%;
+    color: rgb(255, 244, 44);
+    font-size: 3vw;
+    border-radius: 10px;
+}
+
+article #Academico #container6 #row6 .Front-End {
+    text-align: center;
+}
+
+article #Academico #container7 #row7 .tamanho {
+    height: 150%;
+    width: 150%;
+    max-width: 200%;
+    margin-bottom: 50%;
+    margin-top: 27%;
+}
+
+/* Parte 6 */
+
+article #Hobbies {
+    background-color: rgb(19, 72, 73);
+    height: auto;
+    padding-bottom: 5%;
+}
+
+article #Hobbies #P17 h1 {
+    font-size: 5vw;
+    margin-bottom: 5%;
+    color: rgb(255, 244, 44);
+    text-align: center;
+}
+
+article #Hobbies #container8 #row8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+article #Hobbies #container8 #row8 .Bloco1 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+article #Hobbies #container8 #row8 #P18 {
+    background-color: white;
+    border-radius: 10px;
+    margin-inline: 5px;
+    width: 23%;
+    height: auto;
+    align-items: center;
+
+}
+
+article #Hobbies #container8 #row8 #P18 .Sub-Titulos {
+    color: black;
+    text-align: center;
+    font-size: 5vw;
+}
+
+article #L18 {
+    text-decoration: none;
+}
+
+article #Hobbies #container8 #row8 #P18 .botao {
+    margin: auto;
+    text-align: center;
+}
+
+article #Hobbies #container8 #row8 #P18 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #Hobbies #container8 #row8 #P18 .Bloco1 .img-aut {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+article #Hobbies #container8 #row8 #P18 .Bloco1 .img-aut img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+article #Hobbies #container8 #row8 #P19 {
+    background-color: white;
+    border-radius: 10px;
+    margin-inline: 5px;
+    width: 23%;
+    height: auto;
+    align-items: center;
+
+}
+
+article #Hobbies #container8 #row8 #P19 .Sub-Titulos {
+    color: black;
+    text-align: center;
+    font-size: 5vw;
+}
+
+article #L19 {
+    text-decoration: none;
+}
+
+article #Hobbies #container8 #row8 #P19 .botao {
+    margin: auto;
+    text-align: center;
+}
+
+article #Hobbies #container8 #row8 #P19 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #Hobbies #container8 #row8 #P19 .Bloco1 .img-aut {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+article #Hobbies #container8 #row8 #P19 .Bloco1 .img-aut img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+article #Hobbies #container8 #row8 #P20 {
+    background-color: white;
+    border-radius: 10px;
+    margin-inline: 5px;
+    width: 23%;
+    height: auto;
+    align-items: center;
+
+}
+
+article #Hobbies #container8 #row8 #P20 .Sub-Titulos {
+    color: black;
+    text-align: center;
+    font-size: 5vw;
+}
+
+article #L20 {
+    text-decoration: none;
+}
+
+article #Hobbies #container8 #row8 #P20 .botao {
+    margin: auto;
+    text-align: center;
+}
+
+article #Hobbies #container8 #row8 #P20 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #Hobbies #container8 #row8 #P20 .Bloco1 .img-aut {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+article #Hobbies #container8 #row8 #P20 .Bloco1 .img-aut img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+article #Hobbies #container8 #row8 #P21 {
+    background-color: white;
+    border-radius: 10px;
+    margin-inline: 5px;
+    width: 23%;
+    height: auto;
+    align-items: center;
+
+}
+
+article #Hobbies #container8 #row8 #P21 .Sub-Titulos {
+    color: black;
+    text-align: center;
+    font-size: 5vw;
+}
+
+article #L21 {
+    text-decoration: none;
+}
+
+article #Hobbies #container8 #row8 #P21 .botao {
+    margin: auto;
+    text-align: center;
+}
+
+article #Hobbies #container8 #row8 #P21 .botao img {
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+article #Hobbies #container8 #row8 #P21 .Bloco1 .img-aut {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+article #Hobbies #container8 #row8 #P21 .Bloco1 .img-aut img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Footer */
+
+footer #container9 #row9 #bloquinho {
+    align-items: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-color: rgb(19, 72, 73);
+    color: rgb(255, 244, 44);
+    width: auto;
+    height: 40%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer #container9 #row9 #bloquinho h1 {
+    font-size: 2vw;
+}
+
+footer #container10 #row10 .tam {
+    margin-top: 2%;
+    text-align: right;
+    margin-bottom: 2%;
+    height: 20%;
+    width: 20%;
+}
+
+/* Efeitos */
+.efeito {
+    transition: 0.5s;
+}
+
+.efeito:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+    rotate: 5;
+}
+
+/* Media */
+@media (min-width: 600px) {
+    article #Home {
+        background-color: rgb(19, 72, 73);
+        height: 90vh;
+    }
+}
